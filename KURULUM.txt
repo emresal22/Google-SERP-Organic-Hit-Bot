@@ -1,0 +1,72 @@
+========================================
+   KURULUM VE KULLANIM REHBERI
+========================================
+
+ Asagidaki adimlari takip ederek calistirabilirsiniz.
+
+
+----------------------------------------
+1) SISTEM GEREKSINIMLERI
+----------------------------------------
+- Windows 7 / 8 / 8.1 / 10 / 11 (64-bit onerilir)
+- Google Chrome tarayicisi KURULU olmali  (ZORUNLU)
+- Internet baglantisi  (ZORUNLU - ilk acilista surucu indirilir)
+
+
+----------------------------------------
+2) GOOGLE CHROME KURULUMU  (ZORUNLU)
+----------------------------------------
+Bilgisayarinizda Google Chrome yoksa:
+  - https://www.google.com/chrome adresine girin
+  - Indirip kurun
+Chrome zaten kuruluysa bu adimi atlayin.
+
+NOT: Bu program Chrome tarayicisini kullanir. Chrome yoksa program ACILMAZ.
+
+
+----------------------------------------
+3) PROGRAMI CALISTIRMA
+----------------------------------------
+  - EXE dosyasina cift tiklayin.
+  - Program acilana kadar birkac saniye bekleyin
+    (ilk acilista Chrome surucusu indirildigi icin biraz uzun surebilir).
+
+
+----------------------------------------
+4) WINDOWS DEFENDER / ANTIVIRUS UYARISI
+----------------------------------------
+Bazi bilgisayarlarda Windows Defender veya antivirus, EXE dosyalarini
+yanlislikla engelleyebilir. Boyle bir uyari cikarsa:
+
+  - "Daha fazla bilgi" (More info) yazisina tiklayin
+  - "Yine de calistir" (Run anyway) butonuna basin
+
+Bu normaldir; programin zarari yoktur, sadece imzasiz oldugu icin uyari verir.
+
+
+----------------------------------------
+5) SIK KARSILASILAN SORUNLAR
+----------------------------------------
+Soru: Program acilmiyor / hemen kapaniyor.
+Cevap: Buyuk ihtimalle Chrome kurulu degil. Adim 2'yi uygulayin.
+
+Soru: "ChromeDriver" hatasi aliyorum.
+Cevap: Internet baglantinizi kontrol edin. Ilk acilista surucu indirilir.
+
+Soru: Chrome surumum cok eski.
+Cevap: Chrome'u guncelleyin (Chrome > Ayarlar > Chrome Hakkinda).
+
+Soru: Antivirus siliyor / engelliyor.
+Cevap: Antivirus istisnalarina (exclusions) EXE dosyasini ekleyin.
+
+hedeflinkler icerigi domain.com|anahtar kelime|30.5000:33.3700:1
+Sponsor reklam indirmek için : hedefsite.com|anahtar kelime|rasgele konum veya otomaik secer
+----------------------------------------
+OZET (kisaca ne lazim?)
+----------------------------------------
+  [x] Windows
+  [x] Google Chrome  (kurulu olmali)
+  [x] Internet
+  -> EXE'ye cift tikla, calisir.
+
+========================================
